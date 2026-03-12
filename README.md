@@ -1,5 +1,8 @@
 # 🐧 Linux for DevOps Engineers
-
+![Linux](https://img.shields.io/badge/Linux-System%20Administration-blue)
+![Bash](https://img.shields.io/badge/Bash-Scripting-green)
+![DevOps](https://img.shields.io/badge/DevOps-Learning-orange)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 # Table of Contents
 
 - [Linux Fundamentals](Linux-Fundamentals)
