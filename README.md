@@ -1,5 +1,20 @@
 # 🐧 Linux for DevOps Engineers
 
+# Table of Contents
+
+- [Linux Fundamentals](Linux-Fundamentals)
+- [File System and Hierarchy](File-System-and-Hierarchy)
+- [User and Group Management](User-and-Group-Management)
+- [Permission Management](Permission-Management)
+- [File and Directory Management](File-and-Directory-Management)
+- [Hardlink and Softlink](Hardlink-and-Softlink)
+- [Process Management](Process-Management)
+- [Memory and CPU Management](Memory-and-CPU-Management)
+- [Network Management](Network-Management)
+- [Shell Scripting](Shell-Scripting)
+- [Cronjob](Cronjob)
+- [Monitoring and Logs](Monitoring-and-Logs)
+
 A structured Linux learning repository covering **Linux fundamentals, system administration, and DevOps-related Linux skills**.
 
 This repository is designed for **DevOps engineers, cloud engineers, and system administrators** who want to build a strong Linux foundation.
